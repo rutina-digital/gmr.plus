@@ -39,7 +39,7 @@ description: "Приложение к старейшему телеграм-ка
                 </span>                   
         </small>
         <small class="text-muted">
-            {{ latest_post.date | localize: "%d %b %Y" }}
+            {{ latest_post.date | date: "%D" }}
         </small>
     </div>
     </div>
@@ -70,7 +70,7 @@ description: "Приложение к старейшему телеграм-ка
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ second_post.date | localize: "%d %b %Y" }}
+                        {{ second_post.date | date: "%D" }}
                     </small>
                 </div>
             </div>
@@ -97,7 +97,7 @@ description: "Приложение к старейшему телеграм-ка
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ third_post.date | localize: "%d %b %Y" }}
+                        {{ third_post.date | date: "%D" }}
                     </small>
                 </div>
             </div>
@@ -124,7 +124,7 @@ description: "Приложение к старейшему телеграм-ка
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ fourth_post.date | localize: "%d %b %Y" }}
+                        {{ fourth_post.date | date: "%D" }}
                     </small>
                 </div>
             </div>
