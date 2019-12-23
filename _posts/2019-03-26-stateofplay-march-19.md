@@ -6,7 +6,7 @@ image: https://teletype.in/files/a8/a87f85a0-b81c-47d8-9188-5225bca4e2ba.png
 tags: [Sony, State of Play]
 ---
 
-Минувшей ночью прошел первый State of Play — аналогичный Nintendo Direct стрим от Sony. На нем компания показала линейку игр для PS VR и лишь немного коснулась крупных релизов.
+Минувшей ночью прошел первый State of Play — аналогичный Nintendo Direct стрим от Sony.
 
 ### Marvel's Iron Man VR
 
