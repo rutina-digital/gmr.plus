@@ -23,7 +23,7 @@ authors:
     alex:
       name:           Александр Крушин
       site:           https://krushin.me
-      avatar:         /assets/images/ava_alex.jpg
+      avatar:         assets/images/ava_alex.jpg
       bio:            "Издатель"
       email:          alex@krushin.me
       twitter:        https://twitter.com/krushin_ru
@@ -31,7 +31,7 @@ authors:
     surepin:
       name:           Сергей Сурепин
       site:           https://surepin.me
-      avatar:         /assets/images/ava_surepin.jpg
+      avatar:         assets/images/ava_surepin.jpg
       bio:            "Шеф-редактор"
       twitter:        https://twitter.com/iamsuredg
 
