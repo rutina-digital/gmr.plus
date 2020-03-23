@@ -22,3 +22,5 @@ fields:
   config:
     required: false
   label: author
+pages:
+- _posts/все-что-нужно-знать-о-сборнике-yakuza-remastered-collection.md
