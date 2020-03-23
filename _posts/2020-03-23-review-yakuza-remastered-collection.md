@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Все, что нужно знать о сборнике Yakuza Remastered Collection
-image: "/uploads/Yakuza-Remastered-Collection-Now-Available-1280x720.jpg"
+image: "https://gmr.plus/uploads/Yakuza-Remastered-Collection-Now-Available-1280x720.jpg"
 categories: []
 tags: []
 author: surepin
